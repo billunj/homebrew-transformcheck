@@ -5,8 +5,8 @@
 class TransformCheck < Formula
   desc "XML/Navigadoc Transformation Validator"
   homepage "https://bitbucket.org/infomaker/"
-  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/transform-check/transform-check-2021-01-04T155356-b737837.tar.gz"
-  sha256 "90e1c760780df6ecca1d1247aa3fc09f84f9d95e789339c4bd95570cb1ecd3e6"
+  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/transform-check/transform-check-2021-01-04T183700-b737837.tar.gz"
+  sha256 "63bfaedad471700e4c803badffeaa1bb36a851813d228199862022f671461f23"
 
   def install
     bin.install "transform-check"
